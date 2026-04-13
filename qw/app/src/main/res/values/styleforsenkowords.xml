@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="senword">
+        <item name="borderRound">20px</item>
+        <item name="borderWidth">20px</item>
+        <item name="color">#FF89F0</item>
+    </style>
+</resources>
